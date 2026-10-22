@@ -1,0 +1,16 @@
+{
+  "clubName": "HTIC",
+  "announcements": [
+    {
+      "title": "HTIC PINK OCTOBER DAY",
+      "date": "2026-10-22",
+      "body": "University monument (El bikoura), 9:30am"
+    }
+  ],
+  "events": [],
+  "links": [
+    { "label": "TikTok", "url": "https://www.tiktok.com/@hticlub.annaba" },
+    { "label": "Instagram", "url": "https://www.instagram.com/hticlub/" },
+    { "label": "Facebook", "url": "https://www.facebook.com/HTI.CLUB23/" }
+  ]
+}
